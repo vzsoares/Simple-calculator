@@ -2,9 +2,28 @@
   /* position: fixed; */
   /* top: 50%;
   left: 50%; */
-  height: 60vh;
+  min-height: 85vh;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+
+.github-container {
+  text-align: center;
+  width: 4rem;
+  margin: 0 auto;
+}
+
+.github-link {
+  text-decoration: none;
+}
+
+.github-icon {
+  color: black;
+  font-size: 3rem;
+  margin-top: 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
