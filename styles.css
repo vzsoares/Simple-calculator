@@ -10,9 +10,8 @@
 }
 
 .github-container {
-  text-align: center;
-  width: 4rem;
-  margin: 0 auto;
+  display: flex;
+  justify-content: center;
 }
 
 .github-link {
@@ -23,7 +22,4 @@
   color: black;
   font-size: 3rem;
   margin-top: 0.5rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
