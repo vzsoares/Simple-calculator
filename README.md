@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/86134825/162817403-edcf8b1e-48ce-47f1-bf04-59103a89093f.png)
 
-> Super simple caculator using basic html/js
+> Super simple calculator using basic html/js
 
 ### Link
 
